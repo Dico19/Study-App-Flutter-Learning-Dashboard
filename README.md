@@ -1,3 +1,14 @@
+## 📌 Identitas
+
+- *Nama*  : Syahnabila Oktaviani Hakim
+- *NIM*   : 14022300098
+- *Kelas* : 5B-INF
+- *Mata Kuliah* : Pemrograman Mobile
+- *Dosen Pengampu* : Faisal Akhmad S.Kom., M.Kom.
+- *Prodi* : Sistem Informasi
+- *Fakultas* : Ilmu Komputer
+- *UNIVERSITAS BINA BANGSA SERANG*
+
 ---
 
 ## 1. Nama Aplikasi
